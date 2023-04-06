@@ -74,5 +74,7 @@ dependencies {
         implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.0") {
             because("kotlin-stdlib-jdk8 is now a part of kotlin-stdlib")
         }
+        implementation("com.google.android.gms:play-services-fitness:21.1.0")
+        implementation("com.google.android.gms:play-services-auth:20.5.0")
     }
 }
