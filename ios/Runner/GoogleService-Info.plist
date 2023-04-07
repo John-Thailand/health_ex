@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>509538349579-f1a3c8bnh5pmsscoc8bonkdbk7aspk9o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.509538349579-f1a3c8bnh5pmsscoc8bonkdbk7aspk9o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>509538349579-r83lea7bmgcb4n4ouoi18qmj5958rect.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-kBed0mZmycj65EQ1AegZu8DRVMcnDWI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>509538349579</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.healthEx</string>
+	<key>PROJECT_ID</key>
+	<string>feisty-pottery-382906</string>
+	<key>STORAGE_BUCKET</key>
+	<string>feisty-pottery-382906.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:509538349579:ios:f6426a006b17387abfcd0e</string>
+</dict>
+</plist>

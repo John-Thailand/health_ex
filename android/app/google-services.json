@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509538349579",
+    "project_id": "feisty-pottery-382906",
+    "storage_bucket": "feisty-pottery-382906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509538349579:android:f2b0d4e272f02e95bfcd0e",
+        "android_client_info": {
+          "package_name": "com.example.health_ex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509538349579-t7fskq7tgiqo4du75875doq1jhjc94kb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglOW6r9ces0GvshTYpZVud9Y452mWvbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509538349579-t7fskq7tgiqo4du75875doq1jhjc94kb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
